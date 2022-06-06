@@ -1,0 +1,85 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "React"
+    },
+    {
+      "id": 2,
+      "title": "Html"
+    },
+    {
+      "id": 3,
+      "title": "Css"
+    },
+    {
+      "id": 4,
+      "title": "Bootstarp"
+    },
+    {
+      "id": 5,
+      "title": "Javascript"
+    }
+  ],
+  "enquires": [
+    {
+      "name": "sai",
+      "age": "23",
+      "courseId": "1",
+      "id": 1
+    },
+    {
+      "name": "prasanth",
+      "age": "24",
+      "courseId": "2",
+      "id": 2
+    },
+    {
+      "name": "qqwe",
+      "age": "23",
+      "courseId": "1",
+      "id": 3
+    },
+    {
+      "name": "aaaaaa",
+      "age": "1",
+      "courseId": "3",
+      "id": 4
+    },
+    {
+      "name": "ssss",
+      "age": "22",
+      "months": "",
+      "courseId": "1",
+      "id": 5
+    },
+    {
+      "name": "zzz",
+      "age": "111",
+      "months": "",
+      "courseId": "1",
+      "id": 6
+    },
+    {
+      "name": "www",
+      "age": "2",
+      "months": "2",
+      "courseId": "2",
+      "id": 7
+    },
+    {
+      "name": "rrrr",
+      "age": "1",
+      "months": "1",
+      "courseId": "4",
+      "id": 8
+    },
+    {
+      "name": "ssss",
+      "age": "1",
+      "months": "11",
+      "courseId": "4",
+      "id": 9
+    }
+  ]
+}
